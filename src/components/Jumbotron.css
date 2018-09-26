@@ -1,0 +1,7 @@
+.jumbotron {
+	background-color: #9e9076;
+	background-image: url('../images/beer_bear.jpg');
+	background-repeat: no-repeat;
+	background-position:right;
+	background-size: contain;
+}

@@ -1,0 +1,9 @@
+#logo {
+	max-width: 70px;
+}
+ul li a {
+	color: dimgray;
+}
+a:hover {
+	color: #febc2b;
+}
