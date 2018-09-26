@@ -1,0 +1,2 @@
+# react_bootstrap4_website
+Simple React/Boorstrap4-based website. Navigation logic is based on React Router. There is a nice trick how to pass props from &lt;Route /> (/src/App.js) to Contact.jsx (/src/pages/Contact.jsx).  Check out the screenshots  to see how project works. All these files have to be placed inside of 'src' folder of your React project. Thanks to Brice Ayres for inspiration, don't forget to check his "Code Life" youtube channel. 
